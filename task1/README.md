@@ -1,9 +1,9 @@
-**##Student Score Prediction**
+**Student Score Prediction**
 
 Project Overview:
 This project predicts student scores based on study hours using machine learning models. It demonstrates regression techniques to model the relationship between study hours and exam scores, providing insights into performance prediction.
 
-Features
+**Features**
 
 Predict student scores based on input study hours.
 
@@ -13,7 +13,7 @@ Evaluate models using metrics like R², RMSE, and MAE.
 
 Visualize data distribution and regression lines for better understanding.
 
-Requirements
+**Requirements**
 
 Python 3.x
 
@@ -29,7 +29,7 @@ scikit-learn
 
 seaborn (optional for enhanced visualization)
 
-Models Used
+**Models Used**
 
 Linear Regression
 
@@ -53,5 +53,5 @@ R²
 
 RMSE
 
-
 MAE
+
