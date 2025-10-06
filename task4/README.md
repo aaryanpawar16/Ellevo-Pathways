@@ -50,3 +50,8 @@ scikit-learn
 matplotlib
 
 seaborn
+
+Screenshots:
+<img width="1886" height="857" alt="image" src="https://github.com/user-attachments/assets/f61d6d65-ccf2-489d-994a-48901aa97fde" />
+<img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/4435cd2f-0367-4ecd-98eb-d892e78415f3" />
+
