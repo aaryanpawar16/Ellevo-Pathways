@@ -1,4 +1,4 @@
-Student Score Prediction
+**##Student Score Prediction**
 
 Project Overview:
 This project predicts student scores based on study hours using machine learning models. It demonstrates regression techniques to model the relationship between study hours and exam scores, providing insights into performance prediction.
@@ -52,5 +52,6 @@ Metrics:
 R²
 
 RMSE
+
 
 MAE
