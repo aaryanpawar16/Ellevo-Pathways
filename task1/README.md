@@ -55,3 +55,10 @@ RMSE
 
 MAE
 
+Screenshots:
+
+<img width="1899" height="854" alt="image" src="https://github.com/user-attachments/assets/a25e2aad-99d7-4473-a789-09e3619c1c8d" />
+<img width="1911" height="832" alt="image" src="https://github.com/user-attachments/assets/6a629819-57cb-47b4-8d0f-999fd7e37c6e" />
+
+
+
