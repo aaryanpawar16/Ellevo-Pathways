@@ -43,15 +43,16 @@ pandas
 
 numpy
 
+matplotlib
+
+seaborn
+
+scikit-learn
+
+
+
 Screenshots:
 <img width="1892" height="850" alt="image" src="https://github.com/user-attachments/assets/1c96e372-c1b5-42b2-b2e3-7e13cea34607" />
 <img width="1891" height="877" alt="image" src="https://github.com/user-attachments/assets/c0e5228b-ea38-44d5-a041-b8b1a25dee69" />
 
 
-
-matplotlib
-
-seaborn
-
-
-scikit-learn
